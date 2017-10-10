@@ -1,0 +1,67 @@
+header {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 350%;
+}
+
+ul {
+  font-family: 'Average', serif;
+  text-align: center;
+  list-style-type: none;
+  font-size: 200%;
+  padding-bottom: 50px;
+}
+
+head {
+  text-decoration: none;
+}
+
+div {
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Average', serif;
+  font-size: x-large;
+
+}
+
+li {
+     text-align: center;
+    font-style: italic;
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 60px;
+    padding: 30px;
+
+}
+.service-list ul {
+  text-align: center;
+  text-size: xx-large;
+}
+
+img {
+  float: left;
+  padding-right: 15px;
+  padding-top: 30px;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+p {
+  font-family: 'Average', serif;
+  font-size: large;
+}
+
+.nav2 li {
+    margin-right: 5px;
+    margin-left: 42px;
+    text-align: center;
+    font-size: x-large;
+}
+
