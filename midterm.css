@@ -1,0 +1,59 @@
+header {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 350%;
+}
+
+ul {
+  font-family: 'Average', serif;
+  font-style: italic;
+  text-align: center;
+  list-style-type: none;
+  padding: 20px, 20px, 20px, 20px;
+
+}
+
+head {
+  text-decoration: none;
+}
+
+div {
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Average', serif;
+  font-style: italic;
+  font-size: large;
+  column-count: 3;
+  padding-bottom: 0px, 15px, 15px;
+  padding-top: 50px;
+
+}
+
+.service-list ul {
+  text-align: center;
+  text-size: xx-large;
+}
+
+li {
+    text-align: center;
+    font-style: italic;
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 60px;
+    padding: 30px;
+    padding-left: 30px;
+}
+.nav2 li {
+    margin-right: 5px;
+    margin-left: 42px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: x-large;
+}
+
+img {
+  padding-top: 0px, 20px, 15px;
+  padding-right: 0px, 20px, 15px;
+
+}
+
